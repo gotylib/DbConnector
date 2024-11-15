@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DbConnector.Controllers.TradeController",
+    "Method": "AddTrades",
+    "RelativePath": "Trade/AddTrades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trades",
+        "Type": "System.Collections.Generic.IList\u00601[[DbConnector.Core.Trade, DbConnector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r8GJQK4dnIS6qGzgJrDs/mAyYy3ioFr4/qwHVSS9JHI=",
+  "Source": "DbConnector",
+  "BasePath": "_content/DbConnector",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
